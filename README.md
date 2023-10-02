@@ -7,11 +7,11 @@
 ### Soal 1
 Kode Program
 
-![](ss\s1.png)
+![](ss/s1.png)
 
 Output
 
-![](ss\h1.png)
+![](ss/h1.png)
 
 Penjelasan
 
@@ -19,11 +19,11 @@ Kode program diatas akan mencetak tulisan "Hello world".
 ### Soal 2
 Kode Program
 
-![](ss\s2.png)
+![](ss/s2.png)
 
 Output
 
-![](ss\h2.png)
+![](ss/h2.png)
 
 Penjelasan
 
@@ -31,11 +31,11 @@ Kode program diatas akan mencetak nama "Ilham Khalis Putra Agatha" ke konsol seb
 ### Soal 3
 Kode Program
 
-![](ss\s3.png)
+![](ss/s3.png)
 
 Output
 
-![](ss\h3.png)
+![](ss/h3.png)
 
 Penjelasan
 
@@ -43,11 +43,11 @@ Kode program diatas akan mencetak nama depan "Ilham Khalis" dan nama belakang "P
 ### Soal 4
 Kode Program
 
-![](ss\s4.png)
+![](ss/s4.png)
 
 Output
 
-![](ss\h4.png)
+![](ss/h4.png)
 
 Penjelasan
 
@@ -55,11 +55,11 @@ Kode program diatas akan mencetak dua array, masing-masing berisi tiga angka. Ar
 
 Kode Program
 
-![](ss\s41.png)
+![](ss/s41.png)
 
 Output
 
-![](ss\h41.png)
+![](ss/h41.png)
 
 Penjelasan
 
@@ -67,11 +67,11 @@ Kode program diatas akan mencetak dua bilangan, masing-masing bertipe integer da
 ### Soal 5
 Kode Program
 
-![](ss\s5.png)
+![](ss/s5.png)
 
 Output
 
-![](ss\h5.png)
+![](ss/h5.png)
 
 Penjelasan
 
@@ -79,11 +79,11 @@ Kode program diatas akan mencetak dua bilangan, masing-masing bertipe integer da
 ### Soal 6
 Kode Program
 
-![](ss\s6.png)
+![](ss/s6.png)
 
 Output
 
-![](ss\h6.png)
+![](ss/h6.png)
 
 Penjelasan
 
@@ -91,11 +91,11 @@ Kode program diatas akan mencetak nama lengkap "Ilham Khalis Putra Agatha" denga
 ### Soal 7
 Kode Program
 
-![](ss\s7.png)
+![](ss/s7.png)
 
 Output
 
-![](ss\h7.png)
+![](ss/h7.png)
 
 Penjelasan
 
@@ -103,11 +103,11 @@ Kode program diatas akan mencetak tulisan "ini 'OPTIMAL' $sekali" ke konsol. Tan
 ### Soal 8
 Kode Program
 
-![](ss\s8.png)
+![](ss/s8.png)
 
 Output
 
-![](ss\h8.png)
+![](ss/h8.png)
 
 Penjelasan
 
@@ -115,11 +115,11 @@ Kode program diatas akan mencetak dua nama, masing-masing bertipe string. Nama p
 ### Soal 9
 Kode Program
 
-![](ss\s9.png)
+![](ss/s9.png)
 
 Output
 
-![](ss\h9.png)
+![](ss/h9.png)
 
 Penjelasan
 
@@ -127,11 +127,11 @@ Kode program diatas akan mencetak dua nama, masing-masing bertipe string. Nama p
 ### Soal 10
 Kode Program
 
-![](ss\s10.png)
+![](ss/s10.png)
 
 Output
 
-![](ss\h10.png)
+![](ss/h10.png)
 
 Penjelasan
 
